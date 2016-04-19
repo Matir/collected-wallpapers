@@ -32,3 +32,5 @@ Sources:
 * [kali/kali_textfall.jpg](http://img09.deviantart.net/73b1/i/2013/345/e/3/kali_linux_backtrack_wallpaper_black_and_white_v_1_by_zeroxproject-d6xl66b.jpg)
 * [kali/kali_red.png](https://www.kali.org/wp-content/uploads/2014/06/kali-wp-june-2014_1920x1080_E.png)
 * [kali/kali_defcon.jpg](http://cdn.johnywheels.com/2015/11/25/kalilinux-l-a28b0744a29945ff.jpg)
+* [scenery/aoraki_glacier_stream.jpg](https://plus.google.com/photos/+fafiebig/albums/5940273334080115745/6256822789068827122?pid=6256822789068827122&oid=113313460647311490313)
+* [scenery/old_london.jpg](https://plus.google.com/photos/+TreyRatcliff/albums/6257951498476520865/6257951503458547298?pid=6257951503458547298&oid=%2BTreyRatcliff)
