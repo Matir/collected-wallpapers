@@ -4,6 +4,9 @@ removed, please let me know.  I've tried to maintain credits below:
 
 Sources:
 
+* All Wallpapers in [HackerArt](HackerArt/) are from David Hughes' [100 Days of
+  Hacker Art](https://github.com/doulos0/100DaysHackerArt)
+
 * [hackers/cool-anonymous-hackers.jpg](http://www.pageresource.com/wallpapers/wallpaper/cool-anonymous-hackers.jpg)
 * [hackers/hack-the-planet.jpg](http://www.informatique-depan.fr/images/wallpapers/hacking-wallpapers/hack-the-planet.jpg)
 * [kali/kali-bw.png](https://images2.alphacoders.com/480/480538.png)
